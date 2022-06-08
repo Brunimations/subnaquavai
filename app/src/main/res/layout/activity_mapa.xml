@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".mapa"
+    android:background="@color/backgroundcolor">
+
+    <Button
+        android:id="@+id/voltar2"
+        android:layout_width="244dp"
+        android:layout_height="59dp"
+        android:layout_marginStart="80dp"
+        android:layout_marginBottom="16dp"
+        android:text="@string/voltar"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="392dp"
+        android:layout_height="317dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="4dp"
+        android:text="@string/mapa"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.454"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="298dp"
+        android:layout_height="321dp"
+        android:layout_marginEnd="56dp"
+        android:layout_marginBottom="44dp"
+        app:layout_constraintBottom_toTopOf="@+id/voltar2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:srcCompat="@drawable/mapipa" />
+
+    <Button
+        android:id="@+id/maisconstroi5"
+        android:layout_width="244dp"
+        android:layout_height="59dp"
+        android:layout_marginStart="80dp"
+        android:layout_marginBottom="72dp"
+        android:text="@string/maisinformacoes"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

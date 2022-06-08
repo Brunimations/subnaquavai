@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">subnaquavai</string>
+    <string name="botaoconstrutiveis">construtíveis</string>
+    <string name="botaomapa">mapa</string>
+    <string name="botaofauna">fauna</string>
+    <string name="botaoflora">flora</string>
+    <string name="botaoleviata">leviatãs</string>
+    <string name="voltar">voltar</string>
+    <string name="maisinformacoes">mais informações</string>
+
+
+
+    <string name="construtivel">
+        Construtíveis: No jogo, o jogador não está totalmente indefeso no oceano, ele possui a tecnologia para construir veículos móveis e bases aquáticas para poder permanecer vivo enquanto tenta completar seu objetivo.
+O jogador tem uma base para gerir a produção e o consumo de energia, possui salas, armários, fabricador, acoplagem de submarino, sala de escâner e a produção de energia com usina termo-nuclear, reator nuclear, bio-reator, dentre outros à disposição do jogador para construir e gerir.</string>
+
+    <string name="mapa">Mapa: A geologia do planeta 4546B é muito estável em sua maior parte, é um planeta cuja superfície em sua maioria é de alta profundidade e permanece inteiramente sob a água, porém a proximidade de certas áreas com a zona de atrito de placas tectônicas faz com que essas áreas sejam impulsionadas para cima, as trazendo mais para perto da superfície, criando pequenas ilhas e zonas relativamente rasas quando comparadas ao resto do planeta.
+</string>
+
+    <string name="fauna">Fauna: Alguns dos peixes que o jogador encontrará podem servir de alimento a um jogador que está jogando no modo Survival, eo peixe airsack também pode ser usado para fazer água potável para o jogador.</string>
+
+    <string name="flora">Flora: A flora também faz uma participação importante na vida do jogador, tanto positiva quanto negativamente, e cada uma de uma forma bem específica. Algumas são importantes até mesmo para auxiliar na sobrevivência, enquanto outras servem para a confecção de itens e construtíveis do jogador.</string>
+
+    <string name="leviata">Leviatãs: Os leviatãs são criaturas da fauna do planeta 4546B que são grandes de mais para entrarem numa simples
+        categorização de "predadores", possuem de 30 metros de comprimento para mais, alguns deles são pacíficos, como o conhecido como
+        Reefback, que é um animal que possui uma quantidade considerável de flora nas suas costas.
+Mas também existem leviatãs agressivos como o Reaper Leviathan e o Ghost Leviathan.
+</string>
+
+</resources>
